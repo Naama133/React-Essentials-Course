@@ -7,8 +7,8 @@ function App() {
     <>
       <Header />
       <main>
-        <CoreConcepts></CoreConcepts>
-        <Examples></Examples>
+        <CoreConcepts />
+        <Examples />
       </main>
     </>
   );
